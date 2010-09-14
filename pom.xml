@@ -9,7 +9,7 @@
 	<scm>
 	    <connection>scm:git:ssh://250101.vserver.de/var/spool/git/pom-master</connection>
 	    <developerConnection>scm:git:ssh://250101.vserver.de/var/spool/git/pom-master</developerConnection>
-	  <scm>
+	  </scm>
 	
 	<organization>
 		<name>Guido Zockoll</name>
